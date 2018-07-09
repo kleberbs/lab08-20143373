@@ -1,0 +1,10 @@
+<!-- Indices written at Mon, 9 Jul 2018 13:11:34 PET -->
+
+<datastore-indexes>
+
+    <!-- Used 2 times in query history -->
+    <datastore-index kind="Foto" ancestor="false" source="auto">
+        <property name="__key__" direction="desc"/>
+    </datastore-index>
+
+</datastore-indexes>
